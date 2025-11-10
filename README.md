@@ -18,7 +18,7 @@ If you’re close, you’ll get a hint and if you guess correctly, you’ll be r
 1. Open `index.html` in your browser.  
 2. Enter a number between 1 and 100.  
 3. Click “Guess” or press Enter.  
-4. You have **10 tries** — the game gives you feedback:  
+4. You have 10 tries — the game gives you feedback:  
    - 📈 Too low  
    - 📉 Too high  
    - 🔥 Very close  
@@ -30,3 +30,12 @@ HTML5 — Structure and layout
 CSS3 — Styling and color effects  
 JavaScript — Game logic, animations, and fireworks  
 
+Future Enhancements 
+- 🔊 Sound effects for win/loss  
+- ⏱️ Countdown timer mode  
+- 📱 Improved mobile responsiveness  
+
+
+This Game was Developed with Love by Rayan Hassan using Visual Studio Code 
+- Have fun testing your luck and reflexes!  
+- “Sometimes the right number is just a few guesses away.” 🔢✨
