@@ -33,8 +33,10 @@ JavaScript — Game logic, animations, and fireworks
 Future Enhancements 
 - 🔊 Sound effects for win/loss  
 - ⏱️ Countdown timer mode  
-- 📱 Improved mobile responsiveness  
-
+- 📱 Improved mobile responsiveness
+  
+ 🎥 Demo
+![Gameplay Preview](demo.gif)
 
 This Game was Developed with Love by Rayan Hassan using Visual Studio Code 
 - Have fun testing your luck and reflexes!  
